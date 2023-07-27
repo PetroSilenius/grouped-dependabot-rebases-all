@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "true"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "is-odd": "2.0.0"
+  }
+}
