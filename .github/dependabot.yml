@@ -1,0 +1,19 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/modules/backend"
+    schedule:
+      interval: "daily"
+    groups:
+       backend:
+          patterns:
+            - "*"
+
+  - package-ecosystem: "npm"
+    directory: "/modules/frontend"
+    schedule:
+      interval: "daily"
+    groups:
+       frontend:
+          patterns:
+            - "*"
