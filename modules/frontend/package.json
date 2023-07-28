@@ -6,6 +6,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "is-odd": "2.0.0"
+    "is-odd": "3.0.1"
   }
 }
